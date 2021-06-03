@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some Passages abstracted out of a book, entitled Minors no senators, being a brief discourse, proving infants under one and twenty years of age to be incapable in point of law of being elected or admitted members of the High Court of Parliament; and that election of such members are meer nullities in law. / Written by W. Prynn, Esq.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28527</idno><idno type="EEBO-CITATION">226317604</idno>
+  <idno type="VID">202059</idno>
+  <idno type="EEBO-PROQUEST">2240868982</idno>
+  
+            <idno type="OCLC"> 226317604</idno>
+            <idno type="STC">Wing P4084A</idno>
+            <idno type="OCLC">ocn 226317604</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28527)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 202059)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; D2:1[102])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some Passages abstracted out of a book, entitled Minors no senators, being a brief discourse, proving infants under one and twenty years of age to be incapable in point of law of being elected or admitted members of the High Court of Parliament; and that election of such members are meer nullities in law. / Written by W. Prynn, Esq.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+                  <author>Prynne, William, 1600-1669. Minors no Senators.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1661].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Youth --  Political participation --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1714 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:202059:1"/>
+            <head>Some Passages abstracted out of a Book, entitled <hi>Minors no Senators,</hi> being a brief Discourse, proving Infants under One and twenty years of Age to be incapable in point of Law of being Elected or Admitted Members of the High Court of PARLIAMENT; and that the Election of such Members are Meer Nullitites in Laws.</head>
+            <byline>Written by <hi>W. Prynn,</hi> Esq;</byline>
+            <p n="1">1. FOR Parliaments are Summoned to treat and consult <hi>De quibusdam arduis &amp; urgentibus Negotiis Statuum, ac Defensione Regni, &amp;c.</hi> and Infants for want of Judgment and Experience, are uncapable to debate and determine such grand Affairs concerning the Safety and Defence of the Kingdom.</p>
+            <p n="2">2. The Writ describeth the quality of the Persons to be chosen, <hi>viz. Eligi facias duos Milites Gladiis Cinctos Ma<g ref="char:EOLhyphen"/>gis Idoneos &amp; Discretos, &amp; de quolibet Burgo duos Burgenses de Discretioribus &amp; Magis Sufficientibus Eligi facias.</hi>
+            </p>
+            <p n="3">3. There is another Clause in the Writ, describing what Persons must be Elected to be Citizens and Burgesses of Parliament, even such only <hi>Qui plenam &amp; sufficientem potestatem pro se &amp; Communitate Civitatum &amp; Burgorum prae<g ref="char:EOLhyphen"/>dict. ad faciendum &amp; consentiendum, &amp;c.</hi> To consent to those things concerning the weighty Affairs of the Church and State, which shall be ordained by the Common Consent in Parliament.</p>
+            <p n="4">4. By the Common-Law and Civil-Law, Infants have no full power to do or consent to any thing for them<g ref="char:EOLhyphen"/>selves: If they Levy a Fine, or Acknowledge a Statute or Recognizance, which are matters of Record, they may avoid them during their Minorities. The like of Feoffments, Grants, Releases, made or given by Infants, are either void, or voidable.</p>
+            <p n="5">5. And if an Infant cannot consent fully for himself, much less for others; being unable to be an Attorney or Proxy, to assent for others in any Court of Justice, much more then in a Parliament, the supremest Court; and therefore for the defect of such a Power, and by reason of such an improvident Election of Infant-Citizens, and Infant-Burgesses, such Elections are meerly void in Law.</p>
+            <p n="6">6. It is also said in <hi>Littleton,</hi> That an Infant before the Age of 21 years cannot be a Bayliff, or Receiver, for want of Skill and Ability, by intendment of Law to make any Improvement or profit of Lands or Goods; nor yet sworn at all in any Inquest as a Juror: And the Reason is, because Jurors are Judges of all matters of Fact, which Infants in the eye of the Law have no competent knowledge of, and therefore are not returned such <hi>Lega<g ref="char:EOLhyphen"/>les homines,</hi> as the <hi>Venire</hi> requires. Neither is an Infant capable of the Stewardship of a Mannour, much more is he incapable of being a Judg in Parliament, the supremest Court of Justice, where the most difficult Businesses, the most weighty Publick Causes are finally examined, debated and adjudged, without any further Appeal.</p>
+            <p n="7">7. It is of very dangerous Consequence for Infants to be admitted Members, especially in these times of greatest Consultation, Action, and Danger. For first, if any one Infant may <hi>de Jure</hi> be a Member of Parliament; then by consequence a second, third, and so <hi>in infinitum,</hi> till the House be filled with such. For surely, if one Infant be ca<g ref="char:EOLhyphen"/>pable of being a Member, then another as well as he: And if an Infant of twenty years, then of twelve, ten, or less by like Reason; since if you once break the Rules of Law, you can set no bounds to any number or age of Infants; and so by consequence instead of having <hi>Concilium Sapientum, Senatus Seniorum, &amp;c.</hi> as Parliaments were anciently stiled, we shall have <hi>Parliamentum Puerorum, Senatus Infantum,</hi> a Parliament of Children, a Senate of Babes; if all Cities, Boroughs were so childish, so foolish, and injurious to the Publick in their Elections of such, as some (through the importunity of Friends or Bribes) have been.</p>
+            <p>It was a prudent Speech of a blunt Burgess when he was solicited to give his Voice for a young Novice, <hi>This is no Parliament to enter Whelps in, therefore we must think of some Graver Person.</hi>
+            </p>
+            <p>Object. 1. <hi>That the Elections of Members to Parliament belongs to the Free-holders, Burgesses, and Free-men who elect them, and therefore their Election must stand good.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> They have no power to Elect what Members they please, but only such as are most fit, able, and dis<g ref="char:EOLhyphen"/>creet; and where they chuse a Person that is uncapable by Law, the Election cannot make him capable of being a Member by their Election.</p>
+            <p>Object. 2. <hi>That some Infants under the Age of One and twenty years, have been admitted to fit as Members in former Par<g ref="char:EOLhyphen"/>liaments.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> No Infant ought <hi>de Jure</hi> to sit in any Parliament, nor ever sate in former Parliaments of Right, but only by Connivance, when either the House took no notice, or else their Elections were not questioned. And Connivance of former Parliaments in this kind, is no President to over-rule, or bind this present Parliament; be<g ref="char:EOLhyphen"/>cause there are more weighty and difficult Affairs to be debated and setled in this Parliament than in any, yea, all the Parliaments of former Ages, there being at this time more labouring to make Parties to private ends than in any former Ages.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
